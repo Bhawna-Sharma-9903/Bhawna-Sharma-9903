@@ -5,6 +5,6 @@
 📫 How to reach me : Email= Bhawna.sharma3494@gmail.com
 
 <!---
-Bhawna-Sharma-9903/Bhawna-Sharma-9903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bhawna-Sharma-9903/Bhawna-Sharma-9903 is a ✨ special ✨ repoitory because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
