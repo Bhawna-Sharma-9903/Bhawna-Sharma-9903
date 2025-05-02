@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Bhawna-Sharma-9903
-- 👀 I’m interested in making Web Designs and working on new technology projects using Iot or OpenCV.
-- 🌱 I’m currently learning OpenCV and linux
-- 💞️ I’m looking to collaborate on Figma , Behance etc.
-- 📫 How to reach me : Email= Bhawna.sharma3494@gmail.com
+🚀 Code, Cloud & Creativity
+👋 Hey, I’m Bhawna Sharma, a DevOps explorer, Web tinkerer, and Vision wizard diving into automation, Three.js, and OpenCV magic!
+
+⚡ Building smarter workflows 🎨 Crafting interactive experiences 🔍 Seeing the world through AI-powered lenses
+💞️ I’m looking to collaborate on Figma , Behance etc.
+📫 How to reach me : Email= Bhawna.sharma3494@gmail.com
 
 <!---
 Bhawna-Sharma-9903/Bhawna-Sharma-9903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
