@@ -9,7 +9,8 @@
 💞️ I’m looking to collaborate on **Figma, Behance**, etc.  
 
 📫 **How to reach me:**  
-Email = [YourEmail@example.com](mailto:YourEmail@example.com)  
+Email = Bhawna.Sharma3494@gmail.com
+Portfolio = https://portfolio-bhawna-sharma-9903s-projects.vercel.app/#work
 
 
 <!---
