@@ -10,7 +10,8 @@ I build user-focused applications, enjoy untangling tricky problems, and am curr
 Build → Break → Debug → Learn → Improve → Repeat 🔁
 ```
 
-## 🧭 Currently
+
+## [Currently]
 
 **Building:** Enterprise applications with React, TypeScript & Flutter
 
@@ -23,7 +24,7 @@ Build → Break → Debug → Learn → Improve → Repeat 🔁
 **Goal:** Write better code, ask better questions, solve better problems
 
 
-## 🛠️ Toolbox
+## [Toolbox]
 
 **Frontend**
 React · TypeScript · JavaScript · HTML · CSS
@@ -44,7 +45,8 @@ Generative AI · RAG · AI application development
 Git · Figma · VS Code
 
 
-## 🤝 Let's Connect
+
+## [Let's Connect]
 
 Always happy to talk about **software, UI, AI, technology, or why a bug disappears the moment someone else looks at it.** 😄
 
