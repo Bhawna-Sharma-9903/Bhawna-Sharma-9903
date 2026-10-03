@@ -45,5 +45,7 @@ Git · Figma · VS Code
 Always happy to talk about **software, UI, AI, technology, or why a bug disappears the moment someone else looks at it.** 😄
 
 📫 **LinkedIn:** https://www.linkedin.com/in/bhawna-sharma-8ab55a183/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BppnYBjlERHW8Phd5wFq6rQ%3D%3D
+
 💼 **Portfolio:** https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fportfolio-bhawna-sharma-9903s-projects.vercel.app%2F%23work&urlhash=QxQd&mt=kWnfYCf2uqd-P4XbpDou-aKlLAxsJLQNiOC_KY-VGa2PxSV54tuKnDBszev7s21uJuT2XjkOQWLt7r-DgbQLfozrGWI&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BppnYBjlERHW8Phd5wFq6rQ%3D%3D
+
 📧 **Email:** Bhawna.Sharma3494@gmail.com
