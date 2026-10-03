@@ -12,11 +12,15 @@ Build → Break → Debug → Learn → Improve → Repeat 🔁
 
 ## 🧭 Currently
 
-🔨 **Building:** Enterprise applications with React, TypeScript & Flutter
-🧠 **Exploring:** AI application development & RAG
-☁️ **Working with:** Azure, REST APIs & CI/CD
-📚 **Sharpening:** Dart, backend fundamentals & debugging
-🎯 **Goal:** Write better code, ask better questions, solve better problems
+**Building:** Enterprise applications with React, TypeScript & Flutter
+
+**Exploring:** AI application development & RAG
+
+**Working with:** Azure, REST APIs & CI/CD
+
+**Sharpening:** Dart, backend fundamentals & debugging
+
+**Goal:** Write better code, ask better questions, solve better problems
 
 
 ## 🛠️ Toolbox
